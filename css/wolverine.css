@@ -1,0 +1,40 @@
+html, body{
+	font-family: arial;
+	text-align: center;
+	margin: 0px;
+	padding: 0px
+}
+header{
+	background-color: #e6e600;
+	padding: 20px;
+	margin: 0px;
+}
+
+header h1{
+	font-size: 90px;
+	margin: 20px
+}
+
+header img{
+	width: 300px;
+	border-radius: 150px;
+	border: solid 10px black;
+}
+.content {
+	background-color: black;
+	margin: 0 auto;
+	max-width: auto;
+	color: #e6e600;
+	padding: 0 20px;
+}
+img.fighting{
+	max-width: 100%;
+}
+h2{
+	margin: 0 auto;
+	padding-top: 20px;
+}
+p{
+	margin: 0px auto;
+	padding: 20px;
+}
